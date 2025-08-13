@@ -1,0 +1,9 @@
+flask==2.3.2
+werkzeug==2.3.7
+torch==2.1.0
+torchvision==0.16.0
+opencv-python==4.9.0.80
+numpy==1.26.4
+ultralytics==8.0.196
+flask_cors==6.0.1
+onnxruntime==1.22.0
